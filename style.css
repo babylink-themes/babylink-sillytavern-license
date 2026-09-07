@@ -1,0 +1,20 @@
+.babylink-license-extension {
+  display: grid;
+  gap: 8px;
+  margin: 10px 0;
+  padding: 12px;
+  border: 1px solid rgba(128, 128, 128, .35);
+  border-radius: 10px;
+}
+
+.babylink-license-title { font-weight: 700; }
+.babylink-license-copy, .babylink-license-status { font-size: .85em; opacity: .78; line-height: 1.45; }
+.babylink-license-status.success { color: #2f9a61; opacity: 1; }
+.babylink-license-status.error { color: #d45d5d; opacity: 1; }
+.babylink-license-field { display: grid; gap: 4px; }
+.babylink-license-field span { font-size: .82em; opacity: .8; }
+.babylink-license-field input { width: 100%; box-sizing: border-box; }
+.babylink-license-button { min-height: 34px; }
+.babylink-license-result { display: grid; gap: 6px; padding: 9px; border-radius: 8px; background: rgba(65, 145, 92, .13); }
+.babylink-license-result strong { overflow-wrap: anywhere; font-family: ui-monospace, monospace; letter-spacing: .04em; }
+.babylink-license-result button { width: fit-content; }

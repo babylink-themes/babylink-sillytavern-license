@@ -1,0 +1,12 @@
+{
+  "display_name": "BabyLink SillyTavern 导入授权",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "BabyLink",
+  "version": "1.0.0",
+  "homePage": "https://github.com/babylink-themes/babylink-sillytavern-license",
+  "auto_update": true
+}
