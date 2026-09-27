@@ -7,8 +7,13 @@
   border-radius: 10px;
 }
 
+.babylink-license-details { display: grid; gap: 8px; }
+.babylink-license-summary { cursor: pointer; font-weight: 700; }
+.babylink-license-body { display: grid; gap: 8px; }
+
 .babylink-license-title { font-weight: 700; }
 .babylink-license-copy, .babylink-license-status { font-size: .85em; opacity: .78; line-height: 1.45; }
+.babylink-license-hint { font-size: .78em; opacity: .68; line-height: 1.4; }
 .babylink-license-status.success { color: #2f9a61; opacity: 1; }
 .babylink-license-status.error { color: #d45d5d; opacity: 1; }
 .babylink-license-field { display: grid; gap: 4px; }
